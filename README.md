@@ -1,8 +1,3 @@
-The project "Pre-Paid Card System" is made by 
-- Eva Tagarro López de Ayala @170183
-- José Manuel Díaz Urraco @170085
-- Angelika Krolikowska @170042
-
 ## Pre-Paid Card System
 
 #### Description
